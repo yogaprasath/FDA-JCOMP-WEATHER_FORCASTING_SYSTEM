@@ -12,4 +12,10 @@ Weather forecasting is the application of science and technology to predict the 
 
 3. Forecasting temperature into the future using the trained model
 
+## Team
+
+DHARMASEELAN M 20BCS0115 <br>
+YOGA PRASATH M 20BCS0162 <br>
+LOKESH G 20BCS0144 <br>
+SURYA M 20BCS0133<br>
 
